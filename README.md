@@ -1,6 +1,6 @@
 # Microsoft Champions League Hackathon
 
-# A deep learning based Covid-19 Cough Detector
+# A Deep learning based Covid-19 Cough Detector
 
 Dataset used : https://github.com/iiscleap/Coswara-Data 
 
