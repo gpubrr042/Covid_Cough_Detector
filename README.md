@@ -1,3 +1,3 @@
 # Microsoft Champions League Hackathon
 
-A deep learning based Covid-19 Cough Detector
+# A deep learning based Covid-19 Cough Detector
