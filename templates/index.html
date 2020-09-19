@@ -1,0 +1,15 @@
+
+{% extends "layout.html" %}
+{% block content %}
+	<form class="form-signin" method=post enctype=multipart/form-data>
+		<h1 class="h2 mb-3 font-weight-normal">Covid-19 Cough Detector</h1>
+		<h2 onclick="timeFunction()"class="h4 mb-3 font-weight-normal">Please Upload The Audio </h2>
+
+		<input type="file" name="file" id="audio-upload"  type="file" accept=".wav"/>
+		<br />
+		<button type="submit" class="btn btn-primary">Predict</button>
+	
+		<p class="mt-5 mb-3 text-muted">Powered by PyTorch, Flask, and Bootstrap.</p>
+	</form>
+
+{% endblock %}
