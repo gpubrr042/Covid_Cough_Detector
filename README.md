@@ -8,6 +8,10 @@ Each folder contains metadata and recordings corresponding to a person. The audi
 
 Voice samples collected include breathing sounds (fast and slow), cough sounds (deep and shallow), phonation of sustained vowels (/a/ as in made, /i/,/o/), and counting numbers at slow and fast pace. Metadata information collected includes the participant's age, gender, location (country, state/ province), current health status (healthy/ exposed/ cured/ infected) and the presence of comorbidities (pre-existing medical conditions).
 
-# Covid-19-Cough-Detector
+# Prerequisites
 
-!
+Make sure that you have the following:
+
+Python 3+ and pip (which comes with Python 3+)
+A Unix command line (e.g. Git Bash).
+
