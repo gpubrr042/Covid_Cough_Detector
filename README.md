@@ -47,8 +47,8 @@ To run the app, complete the following steps:
 # Accuracy 
 # The accuracy of our detector is currently ```85%``` after training the prediction model for six epochs.
 
-![training_of_the_model](https://user-images.githubusercontent.com/24211231/93706146-098e7b00-fb41-11ea-8978-d3c9c38df847.PNG)
-
-![training_2](https://user-images.githubusercontent.com/24211231/93706149-0e532f00-fb41-11ea-8505-e02ad00970f6.PNG)
-
 ![training_3](https://user-images.githubusercontent.com/24211231/93706150-127f4c80-fb41-11ea-9fa3-6aab73515453.PNG)
+
+# Result on Google Collab
+
+![google_collab](https://user-images.githubusercontent.com/24211231/93706555-11e8b500-fb45-11ea-904b-af16a61adef4.PNG)
