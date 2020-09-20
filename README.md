@@ -15,3 +15,10 @@ Make sure that you have the following:
 * Python 3+ and pip (which comes with Python 3+)
 * All the mention libraries in Requirements.Txt File.
 
+# Running the App
+
+What each file does:
+* ```main.py``` - runs the server and loads the user interface.
+* ```templates/layout.html``` - contains the base HTML
+* ```templates/index.html``` - contains the body of the HTML
+* ```templates/result.html``` - contains the final result of the HTML
