@@ -12,6 +12,6 @@ Voice samples collected include breathing sounds (fast and slow), cough sounds (
 
 Make sure that you have the following:
 
-Python 3+ and pip (which comes with Python 3+)
-A Unix command line (e.g. Git Bash).
+*Python 3+ and pip (which comes with Python 3+)
+*A Unix command line (e.g. Git Bash).
 
