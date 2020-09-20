@@ -49,6 +49,6 @@ To run the app, complete the following steps:
 
 ![training_3](https://user-images.githubusercontent.com/24211231/93706150-127f4c80-fb41-11ea-9fa3-6aab73515453.PNG)
 
-# Result on Google Collab
+# Result after training the model on Google Collaboratory
 
 ![google_collab](https://user-images.githubusercontent.com/24211231/93706555-11e8b500-fb45-11ea-904b-af16a61adef4.PNG)
