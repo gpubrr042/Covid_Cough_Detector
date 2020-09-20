@@ -71,11 +71,6 @@ def feature_selection(cough_heavy_file):
   vec = [element for sub_vec in vec for element in sub_vec]
   return vec
 
-file_name = 'cough-heavy.wav'
-file_path = 'C:/Users/vivek/Covid19_Cough-Detector/cough-heavy.wav'
-
-vec = feature_selection(file_path)
-
 class MLP(nn.Module):
     def __init__(self):
         super(MLP, self).__init__()
@@ -99,21 +94,10 @@ class MLP(nn.Module):
 
 
 mlp=MLP()
-PATH='C:/Users/vivek/Covid19_Cough-Detector/fix_mlp_5.pth'
+PATH='fix_mlp_5.pth'
 
 model_load= mlp.load_state_dict(torch.load(PATH))
 mlp.eval()
-
-
-# def get_file_path_and_save(request):
-#     # Get the file from post request
-#     f = request.files['file']   # Save the file to ./uploads
-#     basepath = os.path.dirname(__file__)
-#     file_path = os.path.join(basepath, 'uploads', secure_filename(f.filename))
-#     fullfilepath=os.path.join(basepath, secure_filename(f.filename))
-#     f.save(file_path)
-#     print('filename is',f)
-#     return f
 
 @app.route('/', methods=['GET'])
 def index():
