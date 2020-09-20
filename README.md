@@ -32,4 +32,7 @@ To run the app, complete the following steps:
 5. In the main directory  Run ```python main.py``` . 
 6. A deployment server will start on local host ```127.0.0.1:5000``` and go to the web-browser and type this ```http://127.0.0.1:5000```
 7. A screen with Covid Cough Detector and a Upload option will be given.
-8. Upload a ```cough.wav``` file from the computer and click on predict the result will appear on the screen in few moments. 
+8. Upload a ```cough.wav``` file from the local computer and click on predict the result will appear on the screen in few moments. 
+
+# Covid-19 Cough Detector
+! Covid_Cough_Detector/screenshot/covid_predict.PNG
