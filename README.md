@@ -44,3 +44,5 @@ To run the app, complete the following steps:
 # Result
 ![result](https://user-images.githubusercontent.com/24211231/93706071-5faeee80-fb40-11ea-9ae9-84246e0c5bf4.PNG)
 
+# Accuracy 
+The accuracy of our detector is currently ```85%``` after training the network for six epochs
