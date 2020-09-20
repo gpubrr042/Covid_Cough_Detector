@@ -34,5 +34,13 @@ To run the app, complete the following steps:
 7. A screen with Covid Cough Detector and a Upload option will be given.
 8. Upload a ```cough.wav``` file from the local computer and click on predict the result will appear on the screen in few moments. 
 
-# Covid-19 Cough Detector
+# Covid-19 Cough Detector 
+# Cough Detector
 ![covid_predict](https://user-images.githubusercontent.com/24211231/93706058-4e65e200-fb40-11ea-8d51-854a8167eeba.PNG)
+# Recording Audio 
+![audio_select](https://user-images.githubusercontent.com/24211231/93706065-54f45980-fb40-11ea-946d-a015b77f285c.PNG)
+# Audio Uploaded
+![file_upload](https://user-images.githubusercontent.com/24211231/93706067-59207700-fb40-11ea-9553-4eb62911844c.PNG)
+# Result
+![result](https://user-images.githubusercontent.com/24211231/93706071-5faeee80-fb40-11ea-9ae9-84246e0c5bf4.PNG)
+
