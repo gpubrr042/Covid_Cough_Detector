@@ -1,4 +1,4 @@
-lxml==4.5.2
+lxml==4.6.3
 typing_extensions==3.7.4.2
 importlib_metadata==1.7.0
 docutils==0.16
