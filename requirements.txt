@@ -4,7 +4,7 @@ importlib_metadata==1.7.0
 docutils==0.16
 numpy==1.18.5
 watchdog==0.10.3
-cryptography==2.9.2
+cryptography==3.2
 keyring==21.2.1
 torch==1.6.0
 brotlipy==0.7.0
