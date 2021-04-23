@@ -22,7 +22,7 @@ ipaddr==2.2.0
 lockfile==0.12.2
 mypy_extensions==0.4.3
 ordereddict==1.1
-Pillow==7.2.0
+Pillow==8.1.1
 pretty==0.1
 protobuf==3.13.0
 pyOpenSSL==19.1.0
