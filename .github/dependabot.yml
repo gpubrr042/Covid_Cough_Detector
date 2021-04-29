@@ -1,0 +1,22 @@
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "23:30"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: importlib-metadata
+    versions:
+    - 3.10.1
+    - 4.0.0
+  - dependency-name: cython
+    versions:
+    - 0.29.22
+  - dependency-name: docutils
+    versions:
+    - "0.17"
+  - dependency-name: watchdog
+    versions:
+    - 2.0.2
