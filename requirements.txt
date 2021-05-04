@@ -3,7 +3,7 @@ typing_extensions==3.7.4.2
 importlib_metadata==1.7.0
 docutils==0.16
 numpy==1.18.5
-watchdog==0.10.3
+watchdog==2.1.0
 cryptography==2.9.2
 keyring==21.2.1
 torch==1.6.0
