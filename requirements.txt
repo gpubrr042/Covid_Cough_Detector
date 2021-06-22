@@ -2,7 +2,7 @@ lxml==4.5.2
 typing_extensions==3.7.4.2
 importlib_metadata==1.7.0
 docutils==0.16
-numpy==1.18.5
+numpy==1.21.0
 watchdog==0.10.3
 cryptography==2.9.2
 keyring==21.2.1
